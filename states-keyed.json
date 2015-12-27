@@ -1,0 +1,155 @@
+{
+  "Alabama": {
+    "Abbreviation":"AL"
+  },
+  "Alaska": {
+    "Abbreviation":"AK"
+  },
+  "Arizona": {
+    "Abbreviation":"AZ"
+  },
+  "Arkansas": {
+    "Abbreviation":"AR"
+  },
+  "California": {
+    "Abbreviation":"CA"
+  },
+  "Colorado": {
+    "Abbreviation":"CO"
+  },
+  "Connecticut": {
+    "Abbreviation":"CT"
+  },
+  "Delaware": {
+    "Abbreviation":"DE"
+  },
+  "District of Columbia": {
+    "Abbreviation":"DC"
+  },
+  "Florida": {
+    "Abbreviation":"FL"
+  },
+  "Georgia": {
+    "Abbreviation":"GA"
+  },
+  "Hawaii": {
+    "Abbreviation":"HI"
+  },
+  "Idaho": {
+    "Abbreviation":"ID"
+  },
+  "Illinois": {
+    "Abbreviation":"IL"
+  },
+  "Indiana": {
+    "Abbreviation":"IN"
+  },
+  "Iowa": {
+    "Abbreviation":"IA"
+  },
+  "Kansas": {
+    "Abbreviation":"KS"
+  },
+  "Kentucky": {
+    "Abbreviation":"KY"
+  },
+  "Louisiana": {
+    "Abbreviation":"LA"
+  },
+  "Maine": {
+    "Abbreviation":"ME"
+  },
+  "Montana": {
+    "Abbreviation":"MT"
+  },
+  "Nebraska": {
+    "Abbreviation":"NE"
+  },
+  "Nevada": {
+    "Abbreviation":"NV"
+  },
+  "New Hampshire": {
+    "Abbreviation":"NH"
+  },
+  "New Jersey": {
+    "Abbreviation":"NJ"
+  },
+  "New Mexico": {
+    "Abbreviation":"NM"
+  },
+  "New York": {
+    "Abbreviation":"NY"
+  },
+  "North Carolina": {
+    "Abbreviation":"NC"
+  },
+  "North Dakota": {
+    "Abbreviation":"ND"
+  },
+  "Ohio": {
+    "Abbreviation":"OH"
+  },
+  "Oklahoma": {
+    "Abbreviation":"OK"
+  },
+  "Oregon": {
+    "Abbreviation":"OR"
+  },
+  "Maryland": {
+    "Abbreviation":"MD"
+  },
+  "Massachusetts": {
+    "Abbreviation":"MA"
+  },
+  "Michigan": {
+    "Abbreviation":"MI"
+  },
+  "Minnesota": {
+    "Abbreviation":"MN"
+  },
+  "Mississippi": {
+    "Abbreviation":"MS"
+  },
+  "Missouri": {
+    "Abbreviation":"MO"
+  },
+  "Pennsylvania": {
+    "Abbreviation":"PA"
+  },
+  "Rhode Island": {
+    "Abbreviation":"RI"
+  },
+  "South Carolina": {
+    "Abbreviation":"SC"
+  },
+  "South Dakota": {
+    "Abbreviation":"SD"
+  },
+  "Tennessee": {
+    "Abbreviation":"TN"
+  },
+  "Texas": {
+    "Abbreviation":"TX"
+  },
+  "Utah": {
+    "Abbreviation":"UT"
+  },
+  "Vermont": {
+    "Abbreviation":"VT"
+  },
+  "Virginia": {
+    "Abbreviation":"VA"
+  },
+  "Washington": {
+    "Abbreviation":"WA"
+  },
+  "West Virginia": {
+    "Abbreviation":"WV"
+  },
+  "Wisconsin": {
+    "Abbreviation":"WI"
+  },
+  "Wyoming": {
+    "Abbreviation":"WY"
+  }
+}
